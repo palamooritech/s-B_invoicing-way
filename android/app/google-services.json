@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327655105912",
+    "project_id": "sanb-invoicing",
+    "storage_bucket": "sanb-invoicing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327655105912:android:86d98f824f52534464948d",
+        "android_client_info": {
+          "package_name": "com.arthurthirtyone.invoicing_sandb_way"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCop1o2zuB4QLhzkesQszMP0dvbb46SfOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
